@@ -1,4 +1,15 @@
 const data = [
+{
+    name: "Rahul Kumar",
+    role: "Frontend Developer / Machine learning Enthusiast",
+    image: "https://avatars.githubusercontent.com/u/63744632?s=400&u=42e417d7456a384d78b6fcd79a70facc932bd330&v=4",
+    skills: ['js', 'Python', 'C', 'C++'],
+    link: [
+      "https://github.com/rahul3git",
+      "https://www.linkedin.com/in/rahul-kumar-a88794215",
+      "https://mobile.twitter.com/RahulKu52549520",
+    ],
+  },
   {
     name: "Akash Khandelwal",
     role: "MERN Stack Developer",
@@ -905,9 +916,20 @@ const data = [
     image: "https://avatars.githubusercontent.com/u/37236514?s=400&v=4",
     skills: ["Node JS", "API", "Python"],
     link: [
-      "https://github.com/RsBhargav",
+      "https://github.com/RsBhttps://twitter.com/SathwikThadhargav",
       "https://www.linkedin.com/in/sai-bhargav-rallapalli-39110891/",
-      "https://twitter.com/rs_bhargav",
+      "https://twitter.com/rshttps://www.linkedin.com/in/sathwik-reddy-thaduru-1310261b2/_bhargav",
+    ],
+  },
+  {
+    name: "Sathwik Thaduru",
+    role: "CS UG student",
+    image: "https://avatars.githubusercontent.com/u/65865881?v=4",
+    skills: ['js', 'ML', 'java', 'python'],
+    link: [
+      "https://github.com/sathwikreddythaduru",
+      "https://www.linkedin.com/in/sathwik-reddy-thaduru-1310261b2/",
+      "https://twitter.com/SathwikThad",
     ],
   },
   {
@@ -926,6 +948,18 @@ name: "Tarun Upadhayay",
 role: "Software developer",
 image: "https://avatars.githubusercontent.com/u/65597321?s=400&u=1068e468cef406fed9be6f303d63a56799e36aaf&v=4",
 skills: ['Python', 'C++','MySQL'],
+link: [
+"https://github.com/tarunupadhayay",
+"https://www.linkedin.com/in/tarun-upadhayay-9a2a601a5/",
+"https://twitter.com/TarunUpadhaya14",
+],
+},
+
+    {
+name: "Tarun Upadhayay",
+role: "Software developer",
+image: "https://avatars.githubusercontent.com/u/65597321?s=400&u=1068e468cef406fed9be6f303d63a56799e36aaf&v=4",
+skills: ['HTML','Python', 'C++','MySQL'],
 link: [
 "https://github.com/tarunupadhayay",
 "https://www.linkedin.com/in/tarun-upadhayay-9a2a601a5/",
